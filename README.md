@@ -1,0 +1,2 @@
+# zabbix_externalscripts
+Zabbixにてシナリオウォッチ等に使用しているスクリプト
